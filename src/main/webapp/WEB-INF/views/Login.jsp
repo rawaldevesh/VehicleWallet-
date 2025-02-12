@@ -9,16 +9,9 @@
 <body>
    <h1>LogIn</h1>
    <br></br>
-   <form action="loginpage" method = "post">
-    	Email :  <input type = "email" name = "email"/> <br></br>
-        
-        Password :  <input type = "password" name = "passeord"/> <br></br>
-        
-        <input type = "submit" value = "Login">
-        
-        </form>
-     <h1>
-		<a href="signup">SignUp</a>
-	</h1>
+  
+     
+		<a href="signup">SignUp</a><br>
+		<a href ="forgetpassword">ForgetPassword?</a>
 </body>
 </html>
